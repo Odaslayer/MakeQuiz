@@ -8,6 +8,10 @@
 #include<iostream>
 #include<iomanip>
 #include<string>
+/** @file course.cc
+	@author Braden Baker
+	@date 3/1/2018
+*/
 using namespace std;
 
 course::course(){

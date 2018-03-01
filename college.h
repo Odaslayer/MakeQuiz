@@ -4,7 +4,10 @@
 //CS 2401
 //10/8/2015
 //********************
-
+/** @file college.h
+	@author Braden Baker
+	@date 3/1/2018
+*/
 #include <iostream>
 #include <fstream>
 #include <string>

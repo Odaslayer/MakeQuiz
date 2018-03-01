@@ -7,6 +7,10 @@
 		Lab 7		Fall 2014
 	John Dolan			Ohio University 
 ********************************************************************/
+/** @file tarray.h
+	@author Braden Baker
+	@date 3/1/2018
+*/
 
 #include<iostream>
 

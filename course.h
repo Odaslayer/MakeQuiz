@@ -6,6 +6,10 @@
 	point system.
 		John Dolan	School of EECS		Summer 2013
 ************************************************************************/
+/** @file course.h
+	@author Braden Baker
+	@date 3/1/2018
+*/
 
 #include<iostream>
 #include<string>
